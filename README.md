@@ -57,3 +57,8 @@ with open(file_path, "w") as f:
 
 file_path
 
+<a href="https://forgeniuswave.com/DSvsl/#aff=Kingsyukri" rel="nofollow" target="_blank">The Genius Wave #1</a>
+<a href="https://digistore24.com/redir/434768/Kingsyukri/" rel="nofollow" target="_blank">The Billionaire Brain Wave #2</a>
+...
+<a href="https://digistore24.com/redir/484657/Kingsyukri/" rel="nofollow" target="_blank">Advanced BioNutritionals #333</a>
+
